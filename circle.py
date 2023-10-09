@@ -9,5 +9,3 @@ def area(r):
 def perimeter(r):
     '''Принимает число r, возвращает длину окружности с радиусом r'''
     return 2 * math.pi * r
-
-print(perimeter(1))
