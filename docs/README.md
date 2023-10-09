@@ -129,3 +129,44 @@ input: 3 4 5
 
 output: 12
 ## История изменения проекта с хешами комитов
+- commit **76643bc0fd8521a99c21f37b7437d0b7aec65321**
+
+
+Author: shirr9 <simkagaechka1@gmail.com>
+
+
+Date:   Wed Sep 27 15:49:05 2023 +0300
+
+    add new file
+- commit **f08c26986e4fb9a16e65cc5658325cc85c814987 (origin/main, origin/HEAD)**
+
+Author: shirr9 <simkagaechka1@gmail.com>
+
+
+Date:   Sat Sep 23 14:26:28 2023 +0300
+
+    fix bug
+- commit **8302ee0a503a62ad20c00e4505dc15b3cf528ff9**
+
+Author: shirr9 <simkagaechka1@gmail.com>
+
+
+Date:   Sat Sep 23 14:12:24 2023 +0300
+
+    add rectangle.py
+- commit **d078c8d9ee6155f3cb0e577d28d337b791de28e2**
+
+Author: smartiqa <info@smartiqa.ru>
+
+
+Date:   Thu Mar 4 14:55:29 2021 +0300
+
+    L-03: Docs added
+- commit **8ba9aeb3cea847b63a91ac378a2a6db758682460**
+
+Author: smartiqa <info@smartiqa.ru>
+
+
+Date:   Thu Mar 4 14:54:08 2021 +0300
+
+    L-03: Circle and square added
