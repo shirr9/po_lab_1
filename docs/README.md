@@ -84,8 +84,9 @@ example:
 input: 2
 
 output: 4
-~~~python perimeter(a):
-return 4 * a
+~~~python
+perimeter(a):
+    return 4 * a
 ~~~
 Принимает число a, возвращает периметр квадрата со стороной a
 
