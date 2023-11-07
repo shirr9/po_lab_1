@@ -1,2 +1,2 @@
-def gipotenuza(a,b)
+def gipotenuza(a,b):
     return (a**2+b**2)**0.5
