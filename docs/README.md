@@ -36,11 +36,10 @@ example:
 input: 1 
 
 output: 3.141592653589793
-- ### __def perimeter(r):__
-
-
-
+~~~python
+def perimeter(r):
     return 2 * math.pi * r
+~~~
 Принимает число r, возвращает длину окружности с радиусом r
 
 example:
@@ -49,11 +48,10 @@ example:
 input: 1 
 
 output 6.283185307179586
-- ### __def area(a, b):__
-
-
-
+~~~python
+def area(a, b):
     return a * b
+~~~
 Принимает числа a и b, возвращает площадь прямоугольника со сторонами a и b
 
 example:
@@ -62,11 +60,10 @@ example:
 input: 2 3 
 
 output: 6
-- ### __def perimeter(a, b):__
-
-
-
+~~~python
+def perimeter(a, b):
     return (a + b)*2
+~~~
 Принимает числа a и b, возвращает периметр прямоугольника со сторонами a и b
 
 example:
@@ -75,11 +72,10 @@ example:
 input: 2 3 
 
 output: 10
-- ### __def area(a):__
-
-
-
+~~~python
+def area(a):
     return a * a
+~~~
 Принимает число a, возвращает площадь квадрата со стороной a
 
 example:
@@ -88,11 +84,9 @@ example:
 input: 2
 
 output: 4
-- ### __def perimeter(a):__
-
-
-
-    return 4 * a
+~~~python perimeter(a):
+return 4 * a
+~~~
 Принимает число a, возвращает периметр квадрата со стороной a
 
 example:
@@ -101,11 +95,10 @@ example:
 input: 2
 
 output: 8
-- ### __def area(a, h):__
-
-
-
+~~~python
+def area(a, h):
     return a * h / 2
+~~~
 Принимает числа a и h, возвращает площадь треугольника со стороной a и высотой h к этой стороне
 
 example:
@@ -114,11 +107,10 @@ example:
 input: 3 4
 
 output: 6
-- ### __def perimetr(a, b, c):__
-
-
-
+~~~python
+def perimetr(a, b, c):
     return a + b + c
+~~~
 Принимает числа a,b,c, возвращает периметр треугольника со сторонами a,b,c
 
 example:
