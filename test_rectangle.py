@@ -10,7 +10,7 @@ class MyTestCase(unittest.TestCase):
         self.assertEqual(area(-1, 5), "error")
 
     def test_perimetr(self):
-        self.assertEqual(perimeter(10, 5), 30)
+        self.assertEqual(perimeter(10, 6), 30)
         self.assertEqual(perimeter(0, 5), "error")
         self.assertEqual(perimeter(-1, 5), "error")
 
