@@ -1,6 +1,6 @@
 import math
 
-'''Импортируем библиотеку math'''
+'''Импортируем библиотекуjlknjkn math'''
 
 
 def area(r):
